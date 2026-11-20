@@ -1,0 +1,6 @@
+{
+  "name": "RelayDesk",
+  "description": "End-to-end encrypted peer-to-peer remote desktop control, file transfer, remote program execution, voice chat, and encrypted messaging with authentication code and QR pairing.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
