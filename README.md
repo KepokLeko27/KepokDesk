@@ -109,3 +109,10 @@ The command validation is a basic safeguard, not a complete execution sandbox. A
 ---
 
 **KepokDesk** – Remote Access. Secure Connection. Seamless Collaboration.
+
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
