@@ -1,3 +1,6 @@
+
+<img width="2124" height="1263" alt="2" src="https://github.com/user-attachments/assets/2f9b0869-5094-48df-b766-848034ca5d21" />
+
 # KEPOKDESK
 
 > End-to-End Encrypted Peer-to-Peer Remote Desktop & Collaboration Console
